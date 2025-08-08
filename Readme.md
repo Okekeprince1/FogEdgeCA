@@ -29,7 +29,7 @@ The core simulation environment and methodology for this project are based on th
 
 1. Clone this repository:
    
-2. Copy all .java files under "package org.fog.test.perfeval"
+2. Copy all .java files to folder "org.fog.test.perfeval" in the eclipse iFog project
 
 3. Switch between the Fog-based and Cloud-only models, by changing the CLOUD boolean flag at the top of the FarmFogSimulation.java file and run the FarmFogSimulation.java file.
 
